@@ -18,6 +18,6 @@ return num1 + num2
   if(bool){
     return str.toUpperCase();
   }else{
-    return str.toLowerCase();
+    return str.toLowerCase();  
   }
  }
